@@ -21,21 +21,22 @@ Network topologies, Packet Tracer (.pkt) files, and network diagrams.
 ## 📐 System Diagrams
 ER diagrams, use case diagrams, class diagrams, and system models.
 
-📁 Folder: `system-diagrams/`
+📁 Folder: "https://github.com/matheesh25/other-works/tree/main/system-diagrams"
 
 ---
 
 ## 📄 Documentation
 Project reports, system manuals, and academic documentation.
 
-📁 Folder: `documentation/`
+📁 Folder: "https://github.com/matheesh25/other-works/tree/main/documentation"
+
 
 ---
 
 ## 🎨 Editing Works
 Posters, thumbnails, and basic design/editing work.
 
-📁 Folder: `editing-works/`
+📁 Folder: "https://github.com/matheesh25/other-works/tree/main/editing-works"
 
 ---
 

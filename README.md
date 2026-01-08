@@ -14,7 +14,7 @@ Reports, datasets, and analysis-related academic work.
 ## 🌐 Cisco Packet Tracer
 Network topologies, Packet Tracer (.pkt) files, and network diagrams.
 
-📁 Folder: `cisco-packet-tracer/`
+📁 Folder: "https://github.com/matheesh25/other-works/tree/main/cisco-packet-tracer"
 
 ---
 

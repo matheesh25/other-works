@@ -7,7 +7,7 @@ This repository contains my academic and technical works, including data analysi
 ## 📊 Data Analysis
 Reports, datasets, and analysis-related academic work.
 
-📁 Folder: `data-analysis/`
+📁 Folder: "https://github.com/matheesh25/other-works/tree/main/data-analysis"
 
 ---
 
